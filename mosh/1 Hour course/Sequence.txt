@@ -1,0 +1,19 @@
+1.Hello World.py
+2.Variable.py
+3.exercise1.py
+4.recieving_input.py
+5.type_conversion.py
+6.exercise2.py
+7.strings.py #really interesting topic
+8.arithmetic_operators.py 
+9.operator_precedence.py
+10.comparison_operators.py
+11.logical_operators.py
+12.if_statement.py
+13.exercise3.py
+14.while_loops.py
+15.lists.py
+16.list_methods.py
+17.for_loops.py
+18.range_function.py
+19.tuples.py
